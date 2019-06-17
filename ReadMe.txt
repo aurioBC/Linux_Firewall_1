@@ -20,3 +20,5 @@ The characteristics of the firewall is as follows:
   > Drop all inbound SYN packets unless there is a rule that permits the inbound traffic
 
   > Remember to allow DNS and DHCP traffic
+
+Please read the Design Doc for further details.
